@@ -4,3 +4,9 @@ Valuation is the process of determining the current value of an asset or liabili
 In the insurance industry, valuation and reserving are closely related. Insurance companies use valuation to determine the current value of their assets and liabilities, which is then used to calculate their reserves. Reserves are set aside to cover future claims and losses.
 
 Note: The material and content available in this repository is only used for educational purposes, and much of the content may not be true or correct. 
+
+learn VBA : https://drive.google.com/drive/folders/19Vz2qZ55EqQZmYDQUbBejcxXdK8n7x_K
+
+Youtube 
+Discussion1 : https://www.youtube.com/watch?v=u1Ignij9xAc
+Discussion2 : https://www.youtube.com/watch?v=yS1EO2Igskk
