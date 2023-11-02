@@ -8,5 +8,9 @@ Note: The material and content available in this repository is only used for edu
 learn VBA : https://drive.google.com/drive/folders/19Vz2qZ55EqQZmYDQUbBejcxXdK8n7x_K
 
 Youtube 
-Discussion1 : https://www.youtube.com/watch?v=u1Ignij9xAc
+Discussion1 : https://www.youtube.com/watch?v=u1Ignij9xAc  
+
 Discussion2 : https://www.youtube.com/watch?v=yS1EO2Igskk
+
+
+These videos are for refrence and video gives you an idea of what you can do and how. Take any of the product from industry and try making similar valuation project you have learned 
