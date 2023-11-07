@@ -12,7 +12,9 @@ Discussion1 : https://www.youtube.com/watch?v=u1Ignij9xAc
 
 Discussion2 : https://www.youtube.com/watch?v=yS1EO2Igskk
 
-Discussing 3 : https://www.youtube.com/watch?v=u364w73wQJk
+Discussing 3 : https://www.youtube.com/watch?v=u364w73wQJk 
+
+Discussion 4 : https://www.youtube.com/watch?v=4b9b5CVQZMI
 
 
 
